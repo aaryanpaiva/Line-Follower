@@ -1,0 +1,8 @@
+The robot only uses 1 sensor, 'sensor'  which is placed at 90 degrees. facing down.
+The operational conditions are: 
+      1. If the sensor reads HIGH, i.e, it does not detect a line - Turn right
+      2. If the sensr reads LOW, i.e, it does detect a line - Turn left.
+
+Thats it!
+
+The robot will move with an awkward zig-zag movement, but it stays on LINE.
